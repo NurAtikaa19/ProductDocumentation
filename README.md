@@ -16,8 +16,8 @@ Ikuti langkah-langkah di bawah ini untuk menginstal dan menjalankan proyek:
 1. **Clone Repositori**
 
    ```bash
-   git clone https://github.com/Fern-Aerell/ProductDocs.git
-   cd ProductDocs
+   git clone https://github.com/NurAtikaa19/gciprojek.git
+   cd gciprojek
    ```
 
 2. **Instal Dependensi**
